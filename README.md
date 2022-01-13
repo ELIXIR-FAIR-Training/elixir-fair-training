@@ -1,1 +1,3 @@
-# elixir-fair-training.github.io
+# elixir-fair-training
+
+Test site for ELIXIR FAIR training project
