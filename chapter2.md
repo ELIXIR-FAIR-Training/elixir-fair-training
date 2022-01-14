@@ -1,11 +1,15 @@
-# Chapter 2 Structure materials for FAIRness
-# How to structure your materials in order to facilitate FAIRness?
+# Chapter 2: Structure materials for FAIRness
+## How to structure your materials to facilitate FAIRness?
 
 Related chapters 
  - [chapter3](chapter3) Use interoperable format
  - [chapter9](chapter9) Welcome contributions
 
-## 2.1 Long description
+Related [10 simple rules](https://doi.org/10.5281/zenodo.3593257)
+ - Rule 6: Use interoperable format
+ - Rule 9: Welcome contributions
+
+### 2.1 Long description
  - What are interoperable formats?
     - Examples of different file formats and what makes them interoperable 
  - How will you ensure reproducibility / reusability of your materials by yourself and others?
